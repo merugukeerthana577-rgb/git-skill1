@@ -1,2 +1,1 @@
-Hello Git
-Feature update added
+hello git
